@@ -18,8 +18,8 @@ public class Testes {
      */
     public static void main(String[] args) {
         
-        TabelaOct_Hex obj = new TabelaOct_Hex();
-        obj.tabela();
+        TesteArray obj = new TesteArray();
+        obj.resultado();
     }
         
 }
